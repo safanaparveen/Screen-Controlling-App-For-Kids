@@ -1,9 +1,9 @@
 # Welcome to KidSafe!
 <img src="https://raw.githubusercontent.com/xMansour/KidSafe/master/graphics/icons/ic_launcher_round.png" alt="Sublime's custom image"/>
 
-[![xMansour - kidSafe](https://img.shields.io/static/v1?label=xMansour&message=kidSafe&color=blue&logo=github)](https://github.com/xMansour/kidSafe "Go to GitHub repo") [![stars - kidSafe](https://img.shields.io/github/stars/xMansour/kidSafe?style=social)](https://github.com/xMansour/kidSafe) [![forks - kidSafe](https://img.shields.io/github/forks/xMansour/kidSafe?style=social)](https://github.com/xMansour/kidSafe)
+[![xMansour - kidSafe](https://img.shields.io/static/v1?label=safana&message=kidSafe&color=blue&logo=github)](https://github.com/safanaparveen/kidSafe "Go to GitHub repo") [![stars - kidSafe](https://img.shields.io/github/stars/xMansour/kidSafe?style=social)](https://github.com/safanaparveen/kidSafe) [![forks - kidSafe](https://img.shields.io/github/forks/xMansour/kidSafe?style=social)](https://github.com/safanaparveen/kidSafe)
 [![Github All Releases](https://img.shields.io/github/downloads/xmansour/kidsafe/total.svg)]()
-[![GitHub tag](https://img.shields.io/github/tag/xMansour/kidSafe?include_prereleases=&sort=semver&color=blue)](https://github.com/xMansour/kidSafe/releases/) [![License](https://img.shields.io/badge/License-MIT-blue)](#license)
+[![GitHub tag](https://img.shields.io/github/tag/xMansour/kidSafe?include_prereleases=&sort=semver&color=blue)](https://github.com/safanaparveen/kidSafe/releases/) [![License](https://img.shields.io/badge/License-MIT-blue)](#license)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red.svg)](https://bitbucket.org/lbesson/ansi-colors)
 
 
